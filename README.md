@@ -1,17 +1,18 @@
 # Flipkart-Dashboard
-Project Purpose
+
+#Project Purpose
 This project analyzes Flipkart’s sales performance across product categories, regions, payment methods, and years (2023–2024).
 The dashboard helps in understanding sales trends, order distribution, profit performance, and customer behavior to support better business decisions.
 
-# Tools Used
+#Tools Used
 Power BI – Dashboard creation & data visualization
 DAX – Calculated measures and KPIs
 Microsoft Excel / CSV – Data preparation
 
-# Data Source
+#Data Source
 Kaggle
 
-# Features 
+#Features 
 Year-wise analysis (2023 & 2024)
 Maximum profit & quantity sold KPIs
 Category-wise orders analysis
